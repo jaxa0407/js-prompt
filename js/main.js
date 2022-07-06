@@ -1,0 +1,22 @@
+var promptInput0 = prompt("Your name");
+var promptInput1 = prompt("Your surname");
+var promptInput2 = prompt("How old are u");
+var promptInput3 = prompt("where are you from");
+var promptInput4 = prompt("What's ur address");
+var promptInput5 = prompt("Waht's ur phone number");
+var promptInput6 = prompt("What's ur hobbie");
+var promptInput7 = prompt("What's ur favourite movie");
+var promptInput8 = prompt("How many children are u in family");
+var promptInput9 = prompt("What's ur favorite animal");
+
+alert(`Name: ${promptInput0} \n surname: ${promptInput1} \n Age: ${promptInput2} \n from ${promptInput3}  \n address: ${promptInput4} \n phone number: ${promptInput5} \n Hobbie ${promptInput6} \n favourite movie: ${promptInput7} \n ${promptInput8} children in family \n favourite movie: ${promptInput9}`);
+console.log("user name: " + promptInput0);
+console.log("user surname: " + promptInput1);
+console.log("user age: " + promptInput2);
+console.log("user from: " + promptInput3);
+console.log("user address: " + promptInput4);
+console.log("user phone number: " + promptInput5);
+console.log("user hobbie: " + promptInput6);
+console.log("user favourite movie: " + promptInput7);
+console.log(promptInput8 + " children in family");
+console.log("user favourite animal: " + promptInput9);
